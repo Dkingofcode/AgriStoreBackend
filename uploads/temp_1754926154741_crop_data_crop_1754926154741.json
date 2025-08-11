@@ -1,0 +1,27 @@
+{
+  "id": "crop_1754926154741",
+  "farmerId": "1",
+  "cropType": "maize",
+  "plantingDate": "13/04/2003",
+  "expectedHarvestDate": "30/06/2023",
+  "soilData": "23",
+  "location": "ibadan Nigeria",
+  "predictions": {
+    "yield": 5.12,
+    "quality": "Grade A",
+    "marketPrice": 316,
+    "profitability": 971
+  },
+  "aiAnalysis": {
+    "soilHealth": "Needs Attention",
+    "moistureLevel": "Adequate",
+    "recommendations": [
+      "Monitor for pest and disease signs",
+      "Apply organic fertilizer for better yield"
+    ]
+  },
+  "status": "Planted",
+  "createdAt": "2025-08-11T15:29:14.741Z",
+  "network": "Base",
+  "version": "1.0"
+}

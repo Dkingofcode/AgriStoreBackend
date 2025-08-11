@@ -1,0 +1,16 @@
+{
+  "name": "John Doe",
+  "location": "Kaduna, Nigeria",
+  "cropTypes": [
+    "maize",
+    "cassava",
+    "soybean"
+  ],
+  "landSize": 5.2,
+  "registrationDate": "2025-08-11T15:37:28.709Z",
+  "walletAddress": "0xabc1234567890abcdef1234567890abcdef1234",
+  "verified": false,
+  "id": "farmer_1754926648709",
+  "network": "Base",
+  "version": "1.0"
+}
